@@ -1,4 +1,8 @@
 # vue-ximalaya
+增加歌曲：http://47.105.205.36:3000/#/uploadMusic
+
+增加歌单：http://47.105.205.36:3000/#/uploadAlbum
+
 
 ## Project setup
 ```
